@@ -1,14 +1,14 @@
 # PaperReview
-인공지능 논문 스터디
+AI Paper Study
 
-#### 1. 스터디 안내  
+#### 1. Study Notification
 - 일시: 매주 화요일 20:00   
-- 내용: 연구 주제 발표 및 논문 리뷰  
-- 목적: 
+- 내용: 연구 주제 발표 및 논문 리뷰 ( + Code Reimplemenation )  
+- 목적: 지식 확장 및 논문 구현 
 
 </br></br>
 #### 2. 스터디 멤버  
-- 사람 : 분야
+@hyoseok1223 : Generative Model / Neural Rendering / Multi-Modal I2I Translation & Generation
 </br></br>
 ### Paper List  
 
