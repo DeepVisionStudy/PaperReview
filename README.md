@@ -9,7 +9,9 @@ AI Paper Study
 </br></br>
 #### 2. 스터디 멤버  
 [@hyoseok1223](https://github.com/hyoseok1223) : Generative Model / Neural Rendering / Multi-Modal I2I Translation & Generation
+</br>
 [@omocomo](https://github.com/omocomo) :
+</br>
 [@Dongwoo-Im](https://github.com/Dongwoo-Im) :
 </br></br>
 ### Paper List  
