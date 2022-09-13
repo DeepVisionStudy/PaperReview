@@ -3,7 +3,7 @@ AI Paper Study
 
 #### 1. Study Notification
 - 일시: 매주 화요일 20:00   
-- 내용: 연구 주제 발표 및 논문 리뷰 ( + Code Reimplemenation )  
+- 내용: 논문 리뷰( + Code Reimplemenation / Code Review / Result Reproduction )  
 - 목적: 지식 확장 및 논문 구현 
 
 </br></br>
