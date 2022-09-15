@@ -17,7 +17,7 @@ AI Paper Study
 </br></br>
 ### Paper List  
 
-Date | Paper | Topic | Presenter | Links | Needs futher modification
+Date | Paper | Topic | Presenter | Link | Needs futher modification
 ---- | ---- | ---- | ---- | ---- | ----
 2022.09.08 | Style Transformer : Style Transformer for Image Inversion and Editing | GAN Inversion | [@hyoseok1223](https://github.com/hyoseok1223) | [Link](https://hyoseok-personality.tistory.com/27) | 
 2022.09.13 | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | Computer Vision| [@Dongwoo-Im](https://github.com/Dongwoo-Im) | [Link](https://dongwoo-im.github.io/papers/review/2022-09-13-An-Image-is-Worth-16x16-Words-Transformers-for-Image-Recognition-at-Scale/) | 
