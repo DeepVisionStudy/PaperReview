@@ -18,4 +18,4 @@ AI Paper Study
 
 Date | Paper | Topic | Presenter | Links | Needs futher modification
 ---- | ---- | ---- | ---- | ---- | ----
-2022.09.08 | Style Transformer : Style Transformer for Image Inversion and Editing | GAN Inversion | [@hyoseok1223](https://github.com/hyoseok1223) <br><br> [@omocomo](https://github.com/omocomo) <br><br> [@Dongwoo-Im](https://github.com/Dongwoo-Im) | [Link](https://hyoseok-personality.tistory.com/27) <br><br> <br><br> [Link](https://dongwoo-im.github.io/papers/review/2022-09-07-Style-Transformer-for-Image-Inversion-and-Editing/) | 
+2022.09.08 | Style Transformer : Style Transformer for Image Inversion and Editing | GAN Inversion | [@hyoseok1223](https://github.com/hyoseok1223) | [Link](https://hyoseok-personality.tistory.com/27) | 
