@@ -12,7 +12,7 @@ AI Paper Study
 </br>
 [@omocomo](https://github.com/omocomo) :
 </br>
-[@Dongwoo-Im](https://github.com/Dongwoo-Im) :
+[@Dongwoo-Im](https://github.com/Dongwoo-Im) : Computer Vision / Generative Model
 
 </br></br>
 ### Paper List  
