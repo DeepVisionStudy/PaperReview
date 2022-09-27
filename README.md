@@ -10,7 +10,7 @@ AI Paper Study
 #### 2. 스터디 멤버  
 [@hyoseok1223](https://github.com/hyoseok1223) : Generative Model / Neural Rendering / Multi-Modal I2I Translation & Generation
 </br>
-[@omocomo](https://github.com/omocomo) :
+[@omocomo](https://github.com/omocomo) : Computer Vision / Generative Model / Multi-Modal Learning
 </br>
 [@Dongwoo-Im](https://github.com/Dongwoo-Im) : Computer Vision / Generative Model
 
@@ -20,4 +20,5 @@ AI Paper Study
 Date | Paper | Topic | Reviewer | Review link
 :----: | ---- | ---- | :----: | :----:
 2022.09.08 | Style Transformer : Style Transformer for Image Inversion and Editing | GAN Inversion | [@hyoseok1223](https://github.com/hyoseok1223) <br><br> [@Dongwoo-Im](https://github.com/Dongwoo-Im) <br><br> [@omocomo](https://github.com/omocomo) | [Link](https://hyoseok-personality.tistory.com/27) <br><br> [Link](https://dongwoo-im.github.io/papers/review/2022-09-07-Style-Transformer-for-Image-Inversion-and-Editing/) <br><br> <br><br>
-2022.09.13 | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | Computer Vision| [@Dongwoo-Im](https://github.com/Dongwoo-Im) | [Link](https://dongwoo-im.github.io/papers/review/2022-09-13-An-Image-is-Worth-16x16-Words-Transformers-for-Image-Recognition-at-Scale/)
+2022.09.13 | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | Computer Vision | [@Dongwoo-Im](https://github.com/Dongwoo-Im) | [Link](https://dongwoo-im.github.io/papers/review/2022-09-13-An-Image-is-Worth-16x16-Words-Transformers-for-Image-Recognition-at-Scale/)
+2022.09.20 | SwinIR: Image Restoration Using Swin Transformer | Image Restoration | [@omocomo](https://github.com/omocomo) | [Link](https://omocomo.tistory.com/entry/Super-Resolution-SwinIR-SwinFIR)
