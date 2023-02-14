@@ -8,7 +8,7 @@ AI Paper Study
 
 </br></br>
 #### 2. 스터디 멤버  
-[@hyoseok1223](https://github.com/hyoseok1223) : Generative Model / Neural Rendering / Multi-Modal I2I Translation & Generation
+[@hyoseok1223](https://github.com/hyoseok1223) : Generative Model / Neural Rendering 
 </br>
 [@omocomo](https://github.com/omocomo) : Computer Vision / Generative Model / Multi-Modal Learning
 </br>
@@ -31,3 +31,5 @@ Date | Paper | Topic | Reviewer | Review link
 2022.11.01 | PoolFormer: MetaFormer Is Actually What You Need for Vision | Transformer, Vision | [@omocomo](https://github.com/omocomo)| [Link](https://omocomo.tistory.com/entry/VisionTransformer-MetaFormer-is-Actually-What-You-Need-for-Vision)
 2022.11.08 | NeRF : Representing Scenes as Neural Radiance Fields for View Synthesis | Graphics, Vision | [@hyoseok1223](https://github.com/hyoseok1223)| [Link](https://hyoseok-personality.tistory.com/entry/Paper-Review-NeRF-Representing-Scens-as-Neural-Radiance-Field-for-View-Synthesis)
 2022.11.08 | A Simple Framework for Contrastive Learning of Visual Representations (SimCLR) | Self-supervised Learning, Contrastive Learning | [@Dongwoo-Im](https://github.com/Dongwoo-Im)| [Link](https://dongwoo-im.github.io/papers/review/2022-11-12-SimCLR/)
+2022.11.18 | pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D | Graphics, Vision, GAN | [@hyoseok1223](https://github.com/hyoseok1223)| [Link](https://hyoseok-personality.tistory.com/entry/Paper-Review-pi-GAN-Periodic-Implicit-Generative-Adversarial-Networks-for-3D)
+2022.12.27 |StyleSpace Analysis : Disentangled Controls for StyleGAN Image Generation | GAN Inversion | [@hyoseok1223](https://github.com/hyoseok1223)| [Link](https://hyoseok-personality.tistory.com/entry/Paper-Review-StyleSpace-Analysis-Disentangled-Controls-for-StyleGAN-Image-Generation-CVPR21-Oral)
