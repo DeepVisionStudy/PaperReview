@@ -49,4 +49,4 @@ Date | Paper | Topic | Reviewer | Review link
 2023.04.20 | DDPM: Denoising Diffusion Probabilistic Model  | Diffusion Model | [@hyoseok1223](https://github.com/hyoseok1223)| [Link](https://hyoseok-personality.tistory.com/entry/Concept-Diffusion-Models-with-DDPM-DDIM)|
 2023.04.24 | Barlow Twins: Self-Supervised Learning via Redundancy Reduction | Self-supervised Learning | [@Dongwoo-Im](https://github.com/Dongwoo-Im) | [Link](https://dongwoo-im.github.io/papers/review/2023-04-24-BarlowTwins/)
 2023.05.01 | VAE: Auto-Encoding Variational Bayes | VAE, Variational Bayes | [@Dongwoo-Im](https://github.com/Dongwoo-Im) | 
-2023.05.08 | VQ-VAE: Neural Discrete Representation Learning | VQ-VAE, Discrete Latent | [@Dongwoo-Im](https://github.com/Dongwoo-Im) | 
+2023.05.08 | VQ-VAE: Neural Discrete Representation Learning | VQ-VAE, Discrete Latent | [@Dongwoo-Im](https://github.com/Dongwoo-Im) | [Link](https://dongwoo-im.github.io/papers/review/2023-05-10-VQVAE/)
